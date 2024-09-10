@@ -1,4 +1,10 @@
 ﻿  Rectangle.cpp
   second_lab_second.cpp
+C:\Users\Ukubona\Desktop\syst_progr\second\second_lab_second\second_lab_second\second_lab_second.cpp(8,2): error C2065: Rectangle: необъявленный идентификатор
+C:\Users\Ukubona\Desktop\syst_progr\second\second_lab_second\second_lab_second\second_lab_second.cpp(8,13): error C2065: empty_rectangle: необъявленный идентификатор
+C:\Users\Ukubona\Desktop\syst_progr\second\second_lab_second\second_lab_second\second_lab_second.cpp(8,35): error C2061: синтаксическая ошибка: идентификатор "Rectangle"
+C:\Users\Ukubona\Desktop\syst_progr\second\second_lab_second\second_lab_second\second_lab_second.cpp(11,15): error C2065: empty_rectangle: необъявленный идентификатор
+C:\Users\Ukubona\Desktop\syst_progr\second\second_lab_second\second_lab_second\second_lab_second.cpp(28,7): error C2065: empty_rectangle: необъявленный идентификатор
+C:\Users\Ukubona\Desktop\syst_progr\second\second_lab_second\second_lab_second\second_lab_second.cpp(28,47): error C2065: empty_rectangle: необъявленный идентификатор
+C:\Users\Ukubona\Desktop\syst_progr\second\second_lab_second\second_lab_second\second_lab_second.cpp(31,15): error C2065: empty_rectangle: необъявленный идентификатор
   Создание кода...
-  second_lab_second.vcxproj -> C:\Users\ryche\OneDrive\Desktop\syst_progr\second\second_lab_second\x64\Debug\second_lab_second.exe

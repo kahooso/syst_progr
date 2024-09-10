@@ -7,7 +7,7 @@ int main()
     while (index != -1) {  // Цикл выполнения программы до выхода
         int array_length = 0, height = 0, width = 0;
         std::vector<Rectangle> rectangle_vector;  // Вектор для хранения прямоугольников
-
+        
         // Запрос длины массива и проверка корректности ввода
         while (true) {
             std::cout << "input array length -> ";

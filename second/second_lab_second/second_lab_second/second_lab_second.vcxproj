@@ -131,6 +131,7 @@
     <ClCompile Include="second_lab_second.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AllUsingLibraries.h" />
     <ClInclude Include="Rectangle.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
