@@ -50,10 +50,10 @@
     <ClInclude Include="Drone.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="Header.h">
+    <ClInclude Include="ClassHeader.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="ClassHeader.h">
+    <ClInclude Include="LibrariesHeader.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

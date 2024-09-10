@@ -1,11 +1,4 @@
-﻿#include <iostream>
-#include <vector>
-#include <stdexcept>
-#include <limits>
-#include "Rectangle.h"
-
-// Функция для отображения всех прямоугольников в векторе
-void displayAll(const std::vector<Rectangle>& vector);
+﻿#include "main_header.h"
 
 int main()
 {
@@ -51,7 +44,9 @@ int main()
         while (true) {
             system("cls");  // Очистка экрана 
 
-            std::cout << "choose a rectangle you want to reduce/increase (exit -> -1)" << std::endl << std::endl;
+            std::cout << "choose a rectangle you want to reduce/increase (exit -> -1)" << std::endl;
+            std::cout << "the value of the height or the weight won't be changed if your reduce operation would set incorrect value!" << std::endl;
+            std::cout << std::endl;
 
             displayAll(rectangle_vector);  // Отображение всех прямоугольников
 
@@ -77,13 +72,4 @@ int main()
     }
 
     return 0;
-}
-
-// Функция для отображения всех прямоугольников в векторе
-void displayAll(const std::vector<Rectangle>& vector) {
-    unsigned int counter = 0;  // Счётчик для идентификации прямоугольников
-    for (const auto& it : vector) {
-        std::cout << "id -> " << counter << "\n" << it.info() << std::endl;  // Вывод информации о прямоугольнике
-        ++counter;  // Увеличение счётчика
-    }
 }

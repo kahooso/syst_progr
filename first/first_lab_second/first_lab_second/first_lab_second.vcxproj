@@ -138,8 +138,8 @@
     <ClInclude Include="Aircraft.h" />
     <ClInclude Include="ClassHeader.h" />
     <ClInclude Include="Drone.h" />
-    <ClInclude Include="Header.h" />
     <ClInclude Include="Helicopter.h" />
+    <ClInclude Include="LibrariesHeader.h" />
     <ClInclude Include="Satellite.h" />
     <ClInclude Include="SpaceShuttle.h" />
   </ItemGroup>

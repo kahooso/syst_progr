@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ryche\\OneDrive\\Desktop\\syst_progr\\first\\first_lab_second\\",
+  "WorkspaceRootPath": "C:\\Users\\ryche\\Desktop\\syst_progr\\first\\first_lab_second\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05B2607F-10B7-4AFC-8DCB-A20378AD644F}|first_lab_second\\first_lab_second.vcxproj|C:\\Users\\ryche\\OneDrive\\Desktop\\syst_progr\\first\\first_lab_second\\first_lab_second\\first_lab_second.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{05B2607F-10B7-4AFC-8DCB-A20378AD644F}|first_lab_second\\first_lab_second.vcxproj|C:\\Users\\ryche\\Desktop\\syst_progr\\first\\first_lab_second\\first_lab_second\\first_lab_second.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{05B2607F-10B7-4AFC-8DCB-A20378AD644F}|first_lab_second\\first_lab_second.vcxproj|solutionrelative:first_lab_second\\first_lab_second.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,20 +14,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 144,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "first_lab_second.cpp",
-              "DocumentMoniker": "C:\\Users\\ryche\\OneDrive\\Desktop\\syst_progr\\first\\first_lab_second\\first_lab_second\\first_lab_second.cpp",
+              "DocumentMoniker": "C:\\Users\\ryche\\Desktop\\syst_progr\\first\\first_lab_second\\first_lab_second\\first_lab_second.cpp",
               "RelativeDocumentMoniker": "first_lab_second\\first_lab_second.cpp",
-              "ToolTip": "C:\\Users\\ryche\\OneDrive\\Desktop\\syst_progr\\first\\first_lab_second\\first_lab_second\\first_lab_second.cpp",
+              "ToolTip": "C:\\Users\\ryche\\Desktop\\syst_progr\\first\\first_lab_second\\first_lab_second\\first_lab_second.cpp",
               "RelativeToolTip": "first_lab_second\\first_lab_second.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAABGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-04T16:58:25.559Z",
+              "WhenOpened": "2024-09-09T12:25:54.169Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 857,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }

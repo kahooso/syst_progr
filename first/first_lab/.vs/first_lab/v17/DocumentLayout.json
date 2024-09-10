@@ -1,13 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ryche\\OneDrive\\Desktop\\syst_progr\\first\\first_lab\\",
+  "WorkspaceRootPath": "C:\\Users\\ryche\\Desktop\\syst_progr\\first\\first_lab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0500DAE1-AFF9-41C0-B85F-EDB43816C4DA}|first_lab\\first_lab.vcxproj|C:\\Users\\ryche\\OneDrive\\Desktop\\syst_progr\\first\\first_lab\\first_lab\\first_lab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0500DAE1-AFF9-41C0-B85F-EDB43816C4DA}|first_lab\\first_lab.vcxproj|C:\\Users\\ryche\\Desktop\\syst_progr\\first\\first_lab\\first_lab\\first_lab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0500DAE1-AFF9-41C0-B85F-EDB43816C4DA}|first_lab\\first_lab.vcxproj|solutionrelative:first_lab\\first_lab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0500DAE1-AFF9-41C0-B85F-EDB43816C4DA}|first_lab\\first_lab.vcxproj|C:\\Users\\ryche\\OneDrive\\Desktop\\syst_progr\\first\\first_lab\\first_lab\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0500DAE1-AFF9-41C0-B85F-EDB43816C4DA}|first_lab\\first_lab.vcxproj|C:\\Users\\ryche\\Desktop\\syst_progr\\first\\first_lab\\first_lab\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0500DAE1-AFF9-41C0-B85F-EDB43816C4DA}|first_lab\\first_lab.vcxproj|solutionrelative:first_lab\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0500DAE1-AFF9-41C0-B85F-EDB43816C4DA}|first_lab\\first_lab.vcxproj|C:\\Users\\ryche\\Desktop\\syst_progr\\first\\first_lab\\first_lab\\main_header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0500DAE1-AFF9-41C0-B85F-EDB43816C4DA}|first_lab\\first_lab.vcxproj|solutionrelative:first_lab\\main_header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0500DAE1-AFF9-41C0-B85F-EDB43816C4DA}|first_lab\\first_lab.vcxproj|C:\\Users\\ryche\\Desktop\\syst_progr\\first\\first_lab\\first_lab\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0500DAE1-AFF9-41C0-B85F-EDB43816C4DA}|first_lab\\first_lab.vcxproj|solutionrelative:first_lab\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -18,33 +26,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Rectangle.h",
-              "DocumentMoniker": "C:\\Users\\ryche\\OneDrive\\Desktop\\syst_progr\\first\\first_lab\\first_lab\\Rectangle.h",
+              "DocumentMoniker": "C:\\Users\\ryche\\Desktop\\syst_progr\\first\\first_lab\\first_lab\\Rectangle.h",
               "RelativeDocumentMoniker": "first_lab\\Rectangle.h",
-              "ToolTip": "C:\\Users\\ryche\\OneDrive\\Desktop\\syst_progr\\first\\first_lab\\first_lab\\Rectangle.h",
+              "ToolTip": "C:\\Users\\ryche\\Desktop\\syst_progr\\first\\first_lab\\first_lab\\Rectangle.h",
               "RelativeToolTip": "first_lab\\Rectangle.h",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-04T10:29:44.112Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main_header.h",
+              "DocumentMoniker": "C:\\Users\\ryche\\Desktop\\syst_progr\\first\\first_lab\\first_lab\\main_header.h",
+              "RelativeDocumentMoniker": "first_lab\\main_header.h",
+              "ToolTip": "C:\\Users\\ryche\\Desktop\\syst_progr\\first\\first_lab\\first_lab\\main_header.h",
+              "RelativeToolTip": "first_lab\\main_header.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-09T07:08:49.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cpp",
+              "DocumentMoniker": "C:\\Users\\ryche\\Desktop\\syst_progr\\first\\first_lab\\first_lab\\Rectangle.cpp",
+              "RelativeDocumentMoniker": "first_lab\\Rectangle.cpp",
+              "ToolTip": "C:\\Users\\ryche\\Desktop\\syst_progr\\first\\first_lab\\first_lab\\Rectangle.cpp",
+              "RelativeToolTip": "first_lab\\Rectangle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-09T06:43:51.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "first_lab.cpp",
-              "DocumentMoniker": "C:\\Users\\ryche\\OneDrive\\Desktop\\syst_progr\\first\\first_lab\\first_lab\\first_lab.cpp",
+              "DocumentMoniker": "C:\\Users\\ryche\\Desktop\\syst_progr\\first\\first_lab\\first_lab\\first_lab.cpp",
               "RelativeDocumentMoniker": "first_lab\\first_lab.cpp",
-              "ToolTip": "C:\\Users\\ryche\\OneDrive\\Desktop\\syst_progr\\first\\first_lab\\first_lab\\first_lab.cpp",
+              "ToolTip": "C:\\Users\\ryche\\Desktop\\syst_progr\\first\\first_lab\\first_lab\\first_lab.cpp",
               "RelativeToolTip": "first_lab\\first_lab.cpp",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADgAAAAAAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAQwCsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-04T10:28:27.159Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 857,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }

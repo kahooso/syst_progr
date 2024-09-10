@@ -1,7 +1,4 @@
-﻿#include <iostream>
-#include <vector>
-
-#include "ClassHeader.h"
+﻿#include "LibrariesHeader.h"
 
 int main() {
     // Вектор объектов класса Aircraft
@@ -61,15 +58,15 @@ int main() {
 
     // Вывод информации и вызов методов для каждого объекта Aircraft
     for (auto& aircraft : aircrafts) {
-        aircraft.displayInfo();
-        aircraft.takeOff();
+        aircraft.display_info();
+        aircraft.take_off();
         aircraft.land();
         std::cout << std::endl;
     }
 
-    // Вывод информации и вызов методов для каждого объекта Helicopter
+    // Вывод информации и вызов методов для каждого объекта Helicopter  
     for (auto& helicopter : helicopters) {
-        helicopter.displayInfo();
+        helicopter.display_info();
         helicopter.hover();
         helicopter.land();
         std::cout << std::endl;
@@ -77,7 +74,7 @@ int main() {
 
     // Вывод информации и вызов методов для каждого объекта SpaceShuttle
     for (auto& shuttle : shuttles) {
-        shuttle.displayInfo();
+        shuttle.display_info();
         shuttle.launch();
         shuttle.dock();
         std::cout << std::endl;
@@ -85,15 +82,15 @@ int main() {
 
     // Вывод информации и вызов методов для каждого объекта Satellite
     for (auto& satellite : satellites) {
-        satellite.displayInfo();
-        satellite.transmitData();
-        satellite.changeOrbit();
+        satellite.display_info();
+        satellite.transmit_data();
+        satellite.change_orbit();
         std::cout << std::endl;
     }
 
     // Вывод информации и вызов методов для каждого объекта Drone
     for (auto& drone : drones) {
-        drone.displayInfo();
+        drone.display_info();
         drone.fly();
         drone.land();
         std::cout << std::endl;
