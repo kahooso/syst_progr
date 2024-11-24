@@ -4,8 +4,19 @@ int main() {
 
 	try
 	{
-		Ring first_ring(2, 5);
-		Ring second_ring(3, 6);
+		double r1 = 0, r2 = 1;
+
+		std::cout << "first ring" << std::endl;
+		std::cin >> r1;
+		std::cin >> r2;
+
+		Ring first_ring(r1, r2);
+		
+		std::cout << "second ring" << std::endl;
+		std::cin >> r1;
+		std::cin >> r2;
+
+		Ring second_ring(r1, r2);
 
 		std::cout << "Initial rings: " << std::endl;
 

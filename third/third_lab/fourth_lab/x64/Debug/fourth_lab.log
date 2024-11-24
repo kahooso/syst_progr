@@ -1,4 +1,5 @@
-﻿  MyString.cpp
-  fourth_lab.cpp
+﻿  fourth_lab.cpp
+  MyString.cpp
   Создание кода...
-  fourth_lab.vcxproj -> C:\Users\ryche\Desktop\fourth_lab\x64\Debug\fourth_lab.exe
+  LINK : не найден или не выполнена сборка C:\Users\ryche\OneDrive\Desktop\syst_progr\third\third_lab\x64\Debug\fourth_lab.exe при последней инкрементной компоновке; выполняется полная компоновка
+  fourth_lab.vcxproj -> C:\Users\ryche\OneDrive\Desktop\syst_progr\third\third_lab\x64\Debug\fourth_lab.exe

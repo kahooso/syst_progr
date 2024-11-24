@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ryche\\Desktop\\fourth\\",
+  "WorkspaceRootPath": "C:\\Users\\ryche\\OneDrive\\Desktop\\syst_progr\\fourth\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6AD55FF-E023-4E92-BC22-67CA639F02B1}|fourth\\fourth.vcxproj|C:\\Users\\ryche\\Desktop\\fourth\\fourth\\Ring.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D6AD55FF-E023-4E92-BC22-67CA639F02B1}|fourth\\fourth.vcxproj|C:\\Users\\ryche\\OneDrive\\Desktop\\syst_progr\\fourth\\fourth\\Ring.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D6AD55FF-E023-4E92-BC22-67CA639F02B1}|fourth\\fourth.vcxproj|solutionrelative:fourth\\Ring.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6AD55FF-E023-4E92-BC22-67CA639F02B1}|fourth\\fourth.vcxproj|C:\\Users\\ryche\\Desktop\\fourth\\fourth\\Ring.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D6AD55FF-E023-4E92-BC22-67CA639F02B1}|fourth\\fourth.vcxproj|C:\\Users\\ryche\\OneDrive\\Desktop\\syst_progr\\fourth\\fourth\\Ring.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D6AD55FF-E023-4E92-BC22-67CA639F02B1}|fourth\\fourth.vcxproj|solutionrelative:fourth\\Ring.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6AD55FF-E023-4E92-BC22-67CA639F02B1}|fourth\\fourth.vcxproj|C:\\Users\\ryche\\Desktop\\fourth\\fourth\\fourth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D6AD55FF-E023-4E92-BC22-67CA639F02B1}|fourth\\fourth.vcxproj|C:\\Users\\ryche\\OneDrive\\Desktop\\syst_progr\\fourth\\fourth\\fourth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D6AD55FF-E023-4E92-BC22-67CA639F02B1}|fourth\\fourth.vcxproj|solutionrelative:fourth\\fourth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -22,21 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 241,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Ring.cpp",
-              "DocumentMoniker": "C:\\Users\\ryche\\Desktop\\fourth\\fourth\\Ring.cpp",
+              "DocumentMoniker": "C:\\Users\\ryche\\OneDrive\\Desktop\\syst_progr\\fourth\\fourth\\Ring.cpp",
               "RelativeDocumentMoniker": "fourth\\Ring.cpp",
-              "ToolTip": "C:\\Users\\ryche\\Desktop\\fourth\\fourth\\Ring.cpp",
+              "ToolTip": "C:\\Users\\ryche\\OneDrive\\Desktop\\syst_progr\\fourth\\fourth\\Ring.cpp",
               "RelativeToolTip": "fourth\\Ring.cpp",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAQwFgAAAAIAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAE8AAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-23T20:40:02.222Z",
               "EditorCaption": ""
@@ -45,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Ring.h",
-              "DocumentMoniker": "C:\\Users\\ryche\\Desktop\\fourth\\fourth\\Ring.h",
+              "DocumentMoniker": "C:\\Users\\ryche\\OneDrive\\Desktop\\syst_progr\\fourth\\fourth\\Ring.h",
               "RelativeDocumentMoniker": "fourth\\Ring.h",
-              "ToolTip": "C:\\Users\\ryche\\Desktop\\fourth\\fourth\\Ring.h",
+              "ToolTip": "C:\\Users\\ryche\\OneDrive\\Desktop\\syst_progr\\fourth\\fourth\\Ring.h",
               "RelativeToolTip": "fourth\\Ring.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -58,24 +54,14 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "fourth.cpp",
-              "DocumentMoniker": "C:\\Users\\ryche\\Desktop\\fourth\\fourth\\fourth.cpp",
+              "DocumentMoniker": "C:\\Users\\ryche\\OneDrive\\Desktop\\syst_progr\\fourth\\fourth\\fourth.cpp",
               "RelativeDocumentMoniker": "fourth\\fourth.cpp",
-              "ToolTip": "C:\\Users\\ryche\\Desktop\\fourth\\fourth\\fourth.cpp",
+              "ToolTip": "C:\\Users\\ryche\\OneDrive\\Desktop\\syst_progr\\fourth\\fourth\\fourth.cpp",
               "RelativeToolTip": "fourth\\fourth.cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-23T20:36:11.178Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 159,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }
