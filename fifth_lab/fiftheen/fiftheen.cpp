@@ -1,46 +1,26 @@
 ﻿#include "Ring.h"
 
 int main() {
+    try {
+        const Ring const_ring(3, 5);
+        const_ring.display();
 
-	try
-	{
-		double r1 = 0, r2 = 1;
+        static Ring stat_ring(1, 2); 
 
-		std::cout << "first ring" << std::endl;
-		std::cin >> r1;
-		std::cin >> r2;
-		Ring first_ring(r1, r2);
-		std::cout << "counter -> " << Ring::getCounter() << std::endl;
+        Ring ring1(2, 4);
+        Ring ring2(3, 5);
 
-		std::cout << "second ring" << std::endl;
-		std::cin >> r1;
-		std::cin >> r2;
-		Ring second_ring(r1, r2);
-		std::cout << "counter -> " << Ring::getCounter() << std::endl;
+        ring1.display();
+        ring2.display();
 
-		std::cout << "\nInitial rings: " << std::endl;
+        Ring result = ring1 + ring2;
+        result.display();
 
-		first_ring.display();
-		second_ring.display();
+        std::cout << "Counter after all obj deleted: " << Ring::getCount() << std::endl;
+    }
+    catch (const std::exception& e) {
+        std::cerr << "Error: " << e.what() << std::endl;
+    }
 
-		Ring inseraction = first_ring * second_ring;
-		std::cout << "\ninseraction (*)" << std::endl;
-		inseraction.display();
-
-		Ring unionn = first_ring + second_ring;
-		std::cout << "\nunion (+)" << std::endl;
-		unionn.display();
-
-		Ring diffrence = first_ring - second_ring;
-		std::cout << "\ndiffrence (-)" << std::endl;
-		diffrence.display();
-
-	}
-	catch (const std::exception& e)
-	{
-
-		std::cerr << "error: " << e.what() << std::endl;
-	}
-
-	return 0;
+    return 0;
 }
