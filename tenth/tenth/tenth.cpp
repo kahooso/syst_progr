@@ -1,6 +1,7 @@
 ﻿#include <iostream>
 #include <thread>
 #include <iomanip>
+#include <memory>
 
 void static_test();
 
@@ -8,22 +9,18 @@ template<typename T>
 void dump_memory(const T& variable);
 
 int main() {
-	uint32_t uint_variable = 13;
-	double_t double_variable = 1.718261826;
-	float_t float_variable = 1.71826f;
-
+	std::unique_ptr<uint32_t> int_ptr = std::make_unique<uint32_t>(13);
+	std::unique_ptr<double_t> double_ptr = std::make_unique<double_t>(1.718261826);
+	std::unique_ptr<float_t> float_ptr = std::make_unique<float_t>(1.71826f);
 	std::cout << "int variable dump" << std::endl;
-	dump_memory(uint_variable);
+	dump_memory(*int_ptr);
 	std::cout << "double variable dump" << std::endl;
-	dump_memory(double_variable);
+	dump_memory(*double_ptr);
 	std::cout << "float variable dump" << std::endl;
-	dump_memory(float_variable);
-
+	dump_memory(*float_ptr);
 	std::thread _thread(static_test);
 	std::this_thread::sleep_for(std::chrono::seconds(1));
-
 	_thread.join();
-
 	return 0;
 }
 
@@ -40,7 +37,8 @@ void dump_memory(const T& variable) {
 }
 
 void static_test() {
-	std::cout << "\nstatic_test\t" << std::this_thread::get_id() << std::endl;
+	std::cout << "\n=== [static_test] ===" << std::endl;
+	std::cout << "[Thread ID: " << std::this_thread::get_id() << "]\n" << std::endl;
 	int i = 54;
 	double d = static_cast<double>(i); // int -> double
 	std::cout << "after static_cast -> " << d << "\t|\t int -> double" << std::endl;

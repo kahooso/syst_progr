@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ryche\\Desktop\\syst_progr\\tenth\\tenth\\",
+  "WorkspaceRootPath": "C:\\Users\\ryche\\OneDrive\\Desktop\\syst_progr\\tenth\\tenth\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{643BDFC0-7F2D-4030-B0B8-DE56E262603E}|tenth.vcxproj|C:\\Users\\ryche\\Desktop\\syst_progr\\tenth\\tenth\\tenth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{643BDFC0-7F2D-4030-B0B8-DE56E262603E}|tenth.vcxproj|C:\\Users\\ryche\\OneDrive\\Desktop\\syst_progr\\tenth\\tenth\\tenth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{643BDFC0-7F2D-4030-B0B8-DE56E262603E}|tenth.vcxproj|solutionrelative:tenth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,34 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 289,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "tenth.cpp",
-              "DocumentMoniker": "C:\\Users\\ryche\\Desktop\\syst_progr\\tenth\\tenth\\tenth.cpp",
+              "DocumentMoniker": "C:\\Users\\ryche\\OneDrive\\Desktop\\syst_progr\\tenth\\tenth\\tenth.cpp",
               "RelativeDocumentMoniker": "tenth.cpp",
-              "ToolTip": "C:\\Users\\ryche\\Desktop\\syst_progr\\tenth\\tenth\\tenth.cpp",
+              "ToolTip": "C:\\Users\\ryche\\OneDrive\\Desktop\\syst_progr\\tenth\\tenth\\tenth.cpp",
               "RelativeToolTip": "tenth.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-03T09:09:38.903Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 159,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }
